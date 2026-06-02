@@ -92,7 +92,7 @@ L --> M[Streamlit UI]
 ```text
 pdf-rag-chatbot/
 │
-├── app.py
+├── main.js
 ├── .env
 ├── requirements.txt
 ├── FastAPI_RAG_Test_Notes.pdf
